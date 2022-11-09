@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d9a09d7.css",
-    "main.js": "/static/js/main.fa121864.js",
-    "index.html": "/index.html",
-    "main.fa121864.js.map": "/static/js/main.fa121864.js.map"
+    "main.css": "/freedom-chat/static/css/main.5d9a09d7.css",
+    "main.js": "/freedom-chat/static/js/main.fa121864.js",
+    "index.html": "/freedom-chat/index.html",
+    "main.fa121864.js.map": "/freedom-chat/static/js/main.fa121864.js.map"
   },
   "entrypoints": [
     "static/css/main.5d9a09d7.css",
