@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/freedom-chat/static/css/main.5d9a09d7.css",
-    "main.js": "/freedom-chat/static/js/main.3d3ad2da.js",
+    "main.js": "/freedom-chat/static/js/main.641562e2.js",
     "index.html": "/freedom-chat/index.html",
-    "main.3d3ad2da.js.map": "/freedom-chat/static/js/main.3d3ad2da.js.map"
+    "main.641562e2.js.map": "/freedom-chat/static/js/main.641562e2.js.map"
   },
   "entrypoints": [
     "static/css/main.5d9a09d7.css",
-    "static/js/main.3d3ad2da.js"
+    "static/js/main.641562e2.js"
   ]
 }
