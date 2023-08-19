@@ -1,0 +1,1 @@
+import{S as o}from"./page-6af04b3b.js";import{l as t}from"./index-20740df3.js";import{j as i}from"./index-6a72a591.js";var m=t((r,a)=>i.jsx(o,{align:"center",...r,direction:"row",ref:a}));m.displayName="HStack";export{m as H};
